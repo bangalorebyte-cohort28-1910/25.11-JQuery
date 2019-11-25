@@ -1,8 +1,6 @@
 # 25.11-JQuery
 
-# WeekendAssignment-2
-
-##### MVC Using the OpenWeatherMap API for 5 days 
+### WeekendAssignment-2 Front End Weather Application
 
 (https://openweathermap.org/forecast5) 
 
